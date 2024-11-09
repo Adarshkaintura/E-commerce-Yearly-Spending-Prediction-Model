@@ -1,6 +1,6 @@
 # E-commerce Yearly Spending Prediction Model
 ## Live Demo
-Check out the live app: [E-commerce Yearly Spending Prediction]([https://your-deployment-link.com](https://e-commerce-yearly-spending-prediction-model-alg2qn23hjrr7bqpy6.streamlit.app/))
+Check out the live app: [E-commerce Yearly Spending Prediction-([https://your-deployment-link.com](https://e-commerce-yearly-spending-prediction-model-alg2qn23hjrr7bqpy6.streamlit.app/))]
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
