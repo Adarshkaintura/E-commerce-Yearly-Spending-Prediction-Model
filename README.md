@@ -1,5 +1,6 @@
 # E-commerce Yearly Spending Prediction Model
-
+## Live Demo
+Check out the live app: [E-commerce Yearly Spending Prediction](https://your-deployment-link.com)
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
